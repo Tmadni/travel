@@ -1,0 +1,14 @@
+/* Navbar */
+.container-fluid {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+  }
+  .navbar {
+    background-color: #fff !important;
+  }
+  .brand-img {
+
+    margin-left: 100px;
+  }
+  

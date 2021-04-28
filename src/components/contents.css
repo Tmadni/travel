@@ -1,0 +1,34 @@
+
+
+.content-img {
+  text-align: center;
+  margin-top: 10%;
+  margin-left: 20%;
+  margin-right: 20%;
+  height: 185px;
+  width: 273px;
+}
+.content-main h3 {
+  text-align: center;
+  margin-top: 15%;
+  font-family: Font-Bold;
+  font-weight: bolder;
+
+  line-height: 1;
+  text-transform: uppercase;
+}
+.content-main h6{
+  text-align: center;
+  line-height: 1;
+}
+.content-main p {
+  text-align: center;
+  line-height: 1.5;
+  padding: 5px 0px 10px;
+  margin-top: 0.5rem;
+  font-family: font-light;
+}
+.link{
+  margin-top: 1rem;
+  margin-left: 20%;
+}
